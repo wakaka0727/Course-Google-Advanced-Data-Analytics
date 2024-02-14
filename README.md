@@ -1,2 +1,3 @@
-# -Course-Google-Advanced-Data-Analytics-
-一些学习时候的笔记
+#【Course】Google Advanced Data Analytics
+## Fundations of Data Science
+## Get Started with Python
